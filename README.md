@@ -1,4 +1,5 @@
 # CaesarCipher
 Encryption/Decryption
 
-Main.java - Program that executes encryption/decryption of Caesar cipher.
+A CLI based Application that runs on JAVA that can be used for Ceaser Cipher Encryption/Decryption
+
