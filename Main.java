@@ -15,12 +15,12 @@ public class Main
 		Scanner io = new Scanner(System.in);
 		str = io.nextLine();
 		System.out.print("Enter key: ");
-		Scanner n = new Scanner(System.in);
+		
 		k = io.nextInt();
 		
 	    System.out.print("1.Encryption 2.Decryption: ");
-		Scanner v = new Scanner(System.in);
-		int val = v.nextInt();
+		
+		int val = io.nextInt();
 		
 		//Key Shift
 		switch(val){
